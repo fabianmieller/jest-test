@@ -1,0 +1,11 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://fabianmieller@github.com/fabianmieller/jest-test.git",
+  "author": "Fabian Mieller <kontakt@fabianmieller.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
